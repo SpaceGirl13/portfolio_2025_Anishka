@@ -1,9 +1,9 @@
 title: Nighthawk Pages 
 description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "portfolio_2025" 
-baseurl: "/portfolio_2025"
+owner_name: Anishka Sanghvi
+github_username: SpaceGirl13
+github_repo: "portfolio_2025_Anishka" 
+baseurl: "/portfolio_2025_Anishka"
 future: true
 remote_theme: jekyll/minima
 minima:
